@@ -1,5 +1,5 @@
 {
     "rewrites": [
-       { "source": "/qrcode.html(.*)", "destination": "/"}
+       { "source": "/qrcode.html(.*)", "destination": "/index.css"}
     ]
 }
