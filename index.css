@@ -31,3 +31,10 @@ p {
     padding-bottom: 20px;
     text-align: center;
 }
+
+@media (min-width: 35rem) {
+  }
+  
+  /* Maximum width */
+  @media (max-width: 50rem) {
+  }
