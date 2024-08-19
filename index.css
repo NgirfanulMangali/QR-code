@@ -32,9 +32,9 @@ p {
     text-align: center;
 }
 
-@media (max-width: 375px) {
+@media (min-width: 375px) {
   }
   
   /* Maximum width */
-@media (max-width: 1440px) {
+@media (min-width: 1440px) {
   }
